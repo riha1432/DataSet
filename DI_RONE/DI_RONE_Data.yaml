@@ -1,0 +1,8 @@
+names:
+- car
+- truck
+- bus
+nc: 3
+test: /content/Vehicla_Data/test/images
+train: /content/Vehicla_Data/train/images/
+val: /content/Vehicla_Data/valid/images
