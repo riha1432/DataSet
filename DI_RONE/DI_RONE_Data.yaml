@@ -3,6 +3,6 @@ names:
 - truck
 - bus
 nc: 3
-test: /content/Vehicla_Data/test/images
-train: /content/Vehicla_Data/train/images/
-val: /content/Vehicla_Data/valid/images
+test: /content/DI_RONE/DI_RONE/test/images
+train: /content/DI_RONE/DI_RONE/train/images/
+val: /content/DI_RONE/DI_RONE/valid/images
