@@ -4,6 +4,6 @@ names:
 - Aerosol
 - SupplymentaryBattery
 nc: 4
-test: ../test/images
-train: ../train/images
-val: ../valid/images
+test: ../yolo_date/DataSet/privatePR/test/images
+train: ../yolo_date/DataSet/privatePR/train/images
+val: ../yolo_date/DataSet/privatePR/valid/images
