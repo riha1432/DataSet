@@ -1,0 +1,202 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEONJU_A_2",
+        "local_gov_name": "전주시",
+        "use_purpose": "도수관",
+        "installation_year": 2012,
+        "pipe_length": 3.86,
+        "pipe_type": "주철관",
+        "pipe_diameter": 800
+    },
+    "data_info": {
+        "data_id": "JEONJU_A_21_065100",
+        "detection_time": "20231103 16:49:00.0",
+        "detection_position": 21,
+        "detection_order": 65100,
+        "multi_modal_label": [
+            "A2",
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEONJU_A_21_065100_II",
+        "image_file_name": "JEONJU_A_21_065100_II.png",
+        "image_original_file_name": "JEONJU_A_21.mp4",
+        "image_height": 713,
+        "image_width": 1225,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 2,
+                        "y": 541
+                    },
+                    {
+                        "x": 0,
+                        "y": 301
+                    },
+                    {
+                        "x": 123,
+                        "y": 236
+                    },
+                    {
+                        "x": 313,
+                        "y": 163
+                    },
+                    {
+                        "x": 493,
+                        "y": 131
+                    },
+                    {
+                        "x": 708,
+                        "y": 133
+                    },
+                    {
+                        "x": 860,
+                        "y": 157
+                    },
+                    {
+                        "x": 1011,
+                        "y": 211
+                    },
+                    {
+                        "x": 1177,
+                        "y": 286
+                    },
+                    {
+                        "x": 1225,
+                        "y": 327
+                    },
+                    {
+                        "x": 1225,
+                        "y": 545
+                    },
+                    {
+                        "x": 1156,
+                        "y": 488
+                    },
+                    {
+                        "x": 1069,
+                        "y": 435
+                    },
+                    {
+                        "x": 981,
+                        "y": 396
+                    },
+                    {
+                        "x": 930,
+                        "y": 376
+                    },
+                    {
+                        "x": 846,
+                        "y": 346
+                    },
+                    {
+                        "x": 751,
+                        "y": 333
+                    },
+                    {
+                        "x": 680,
+                        "y": 325
+                    },
+                    {
+                        "x": 573,
+                        "y": 325
+                    },
+                    {
+                        "x": 472,
+                        "y": 329
+                    },
+                    {
+                        "x": 348,
+                        "y": 358
+                    },
+                    {
+                        "x": 245,
+                        "y": 397
+                    },
+                    {
+                        "x": 158,
+                        "y": 437
+                    },
+                    {
+                        "x": 82,
+                        "y": 486
+                    }
+                ],
+                "image_label": "A2"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1224,
+                        "y": 1
+                    },
+                    {
+                        "x": 1225,
+                        "y": 579
+                    },
+                    {
+                        "x": 1121,
+                        "y": 552
+                    },
+                    {
+                        "x": 859,
+                        "y": 448
+                    },
+                    {
+                        "x": 613,
+                        "y": 416
+                    },
+                    {
+                        "x": 445,
+                        "y": 433
+                    },
+                    {
+                        "x": 292,
+                        "y": 474
+                    },
+                    {
+                        "x": 121,
+                        "y": 515
+                    },
+                    {
+                        "x": 0,
+                        "y": 493
+                    },
+                    {
+                        "x": 4,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEONJU_A_21_065100_AI",
+        "audio_inside_file_name": "JEONJU_A_21_065100_AI.wav",
+        "audio_inside_original_file_name": "JEONJU_A_21_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231103 16:48:57.5",
+        "audio_inside_timestamp_end": "20231103 16:49:02.5",
+        "audio_inside_label": "A"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEONJU_A_21_065100_AO",
+        "audio_outside_file_name": "JEONJU_A_21_065100_AO.wav",
+        "audio_outside_original_file_name": "JEONJU_A_21_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231103 16:48:57.5",
+        "audio_outside_timestamp_end": "20231103 16:49:02.5",
+        "audio_outside_label": "N"
+    }
+}

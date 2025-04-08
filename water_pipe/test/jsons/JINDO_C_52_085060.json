@@ -1,0 +1,188 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_5",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 2007,
+        "pipe_length": 1.5,
+        "pipe_type": "강관",
+        "pipe_diameter": 600
+    },
+    "data_info": {
+        "data_id": "JINDO_C_52_085060",
+        "detection_time": "20231122 00:14:10.6",
+        "detection_position": 52,
+        "detection_order": 85060,
+        "multi_modal_label": [
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_52_085060_II",
+        "image_file_name": "JINDO_C_52_085060_II.png",
+        "image_original_file_name": "JINDO_C_52.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 1034,
+                        "y": 349
+                    },
+                    {
+                        "x": 963,
+                        "y": 362
+                    },
+                    {
+                        "x": 874,
+                        "y": 404
+                    },
+                    {
+                        "x": 812,
+                        "y": 471
+                    },
+                    {
+                        "x": 789,
+                        "y": 574
+                    },
+                    {
+                        "x": 801,
+                        "y": 691
+                    },
+                    {
+                        "x": 875,
+                        "y": 779
+                    },
+                    {
+                        "x": 992,
+                        "y": 831
+                    },
+                    {
+                        "x": 1114,
+                        "y": 826
+                    },
+                    {
+                        "x": 1198,
+                        "y": 767
+                    },
+                    {
+                        "x": 1247,
+                        "y": 693
+                    },
+                    {
+                        "x": 1258,
+                        "y": 589
+                    },
+                    {
+                        "x": 1247,
+                        "y": 503
+                    },
+                    {
+                        "x": 1200,
+                        "y": 420
+                    },
+                    {
+                        "x": 1125,
+                        "y": 368
+                    },
+                    {
+                        "x": 1115,
+                        "y": 385
+                    },
+                    {
+                        "x": 1170,
+                        "y": 425
+                    },
+                    {
+                        "x": 1217,
+                        "y": 490
+                    },
+                    {
+                        "x": 1227,
+                        "y": 552
+                    },
+                    {
+                        "x": 1221,
+                        "y": 646
+                    },
+                    {
+                        "x": 1162,
+                        "y": 711
+                    },
+                    {
+                        "x": 1092,
+                        "y": 756
+                    },
+                    {
+                        "x": 1018,
+                        "y": 762
+                    },
+                    {
+                        "x": 917,
+                        "y": 719
+                    },
+                    {
+                        "x": 861,
+                        "y": 659
+                    },
+                    {
+                        "x": 843,
+                        "y": 600
+                    },
+                    {
+                        "x": 836,
+                        "y": 527
+                    },
+                    {
+                        "x": 880,
+                        "y": 441
+                    },
+                    {
+                        "x": 947,
+                        "y": 393
+                    },
+                    {
+                        "x": 1047,
+                        "y": 368
+                    },
+                    {
+                        "x": 1110,
+                        "y": 383
+                    },
+                    {
+                        "x": 1130,
+                        "y": 368
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_52_085060_AI",
+        "audio_inside_file_name": "JINDO_C_52_085060_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_52_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231122 00:14:08.1",
+        "audio_inside_timestamp_end": "20231122 00:14:13.1",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_52_085060_AO",
+        "audio_outside_file_name": "JINDO_C_52_085060_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_52_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231122 00:14:08.1",
+        "audio_outside_timestamp_end": "20231122 00:14:13.1",
+        "audio_outside_label": "N"
+    }
+}

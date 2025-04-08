@@ -1,0 +1,168 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEJU_B_2",
+        "local_gov_name": "제주시",
+        "use_purpose": "송수관",
+        "installation_year": 2001,
+        "pipe_length": 3.8,
+        "pipe_type": "주철관",
+        "pipe_diameter": 600
+    },
+    "data_info": {
+        "data_id": "JEJU_B_22_095480",
+        "detection_time": "20231110 16:23:32.8",
+        "detection_position": 22,
+        "detection_order": 95480,
+        "multi_modal_label": [
+            "A5",
+            "A5",
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEJU_B_22_095480_II",
+        "image_file_name": "JEJU_B_22_095480_II.png",
+        "image_original_file_name": "JEJU_B_22.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 964,
+                        "y": 335
+                    },
+                    {
+                        "x": 1396,
+                        "y": 305
+                    },
+                    {
+                        "x": 1907,
+                        "y": 12
+                    },
+                    {
+                        "x": 1143,
+                        "y": 0
+                    },
+                    {
+                        "x": 772,
+                        "y": 4
+                    },
+                    {
+                        "x": 758,
+                        "y": 62
+                    },
+                    {
+                        "x": 885,
+                        "y": 308
+                    }
+                ],
+                "image_label": "A5"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1100,
+                        "y": 509
+                    },
+                    {
+                        "x": 1073,
+                        "y": 596
+                    },
+                    {
+                        "x": 1142,
+                        "y": 606
+                    },
+                    {
+                        "x": 1185,
+                        "y": 562
+                    },
+                    {
+                        "x": 1201,
+                        "y": 517
+                    },
+                    {
+                        "x": 1156,
+                        "y": 501
+                    }
+                ],
+                "image_label": "A5"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 593,
+                        "y": 1047
+                    },
+                    {
+                        "x": 709,
+                        "y": 899
+                    },
+                    {
+                        "x": 1002,
+                        "y": 762
+                    },
+                    {
+                        "x": 1525,
+                        "y": 734
+                    },
+                    {
+                        "x": 1750,
+                        "y": 754
+                    },
+                    {
+                        "x": 1857,
+                        "y": 797
+                    },
+                    {
+                        "x": 1920,
+                        "y": 808
+                    },
+                    {
+                        "x": 1920,
+                        "y": 0
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 7,
+                        "y": 1080
+                    },
+                    {
+                        "x": 581,
+                        "y": 1078
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEJU_B_22_095480_AI",
+        "audio_inside_file_name": "JEJU_B_22_095480_AI.wav",
+        "audio_inside_original_file_name": "JEJU_B_22_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231110 16:23:30.3",
+        "audio_inside_timestamp_end": "20231110 16:23:35.3",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEJU_B_22_095480_AO",
+        "audio_outside_file_name": "JEJU_B_22_095480_AO.wav",
+        "audio_outside_original_file_name": "JEJU_B_22_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231110 16:23:30.3",
+        "audio_outside_timestamp_end": "20231110 16:23:35.3",
+        "audio_outside_label": "N"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEONJU_A_1",
+        "local_gov_name": "전주시",
+        "use_purpose": "도수관",
+        "installation_year": 2012,
+        "pipe_length": 3.86,
+        "pipe_type": "주철관",
+        "pipe_diameter": 800
+    },
+    "data_info": {
+        "data_id": "JEONJU_A_11_054840",
+        "detection_time": "20231103 15:51:08.4",
+        "detection_position": 11,
+        "detection_order": 54840,
+        "multi_modal_label": [
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEONJU_A_11_054840_II",
+        "image_file_name": "JEONJU_A_11_054840_II.png",
+        "image_original_file_name": "JEONJU_A_11.mp4",
+        "image_height": 713,
+        "image_width": 1225,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 5,
+                        "y": 451
+                    },
+                    {
+                        "x": 86,
+                        "y": 513
+                    },
+                    {
+                        "x": 142,
+                        "y": 486
+                    },
+                    {
+                        "x": 219,
+                        "y": 476
+                    },
+                    {
+                        "x": 305,
+                        "y": 443
+                    },
+                    {
+                        "x": 416,
+                        "y": 460
+                    },
+                    {
+                        "x": 459,
+                        "y": 454
+                    },
+                    {
+                        "x": 550,
+                        "y": 401
+                    },
+                    {
+                        "x": 718,
+                        "y": 422
+                    },
+                    {
+                        "x": 798,
+                        "y": 462
+                    },
+                    {
+                        "x": 881,
+                        "y": 480
+                    },
+                    {
+                        "x": 1019,
+                        "y": 521
+                    },
+                    {
+                        "x": 1097,
+                        "y": 520
+                    },
+                    {
+                        "x": 1190,
+                        "y": 550
+                    },
+                    {
+                        "x": 1225,
+                        "y": 528
+                    },
+                    {
+                        "x": 1225,
+                        "y": 4
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEONJU_A_11_054840_AI",
+        "audio_inside_file_name": "JEONJU_A_11_054840_AI.wav",
+        "audio_inside_original_file_name": "JEONJU_A_11_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231103 15:51:05.9",
+        "audio_inside_timestamp_end": "20231103 15:51:10.9",
+        "audio_inside_label": "A"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEONJU_A_11_054840_AO",
+        "audio_outside_file_name": "JEONJU_A_11_054840_AO.wav",
+        "audio_outside_original_file_name": "JEONJU_A_11_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231103 15:51:05.9",
+        "audio_outside_timestamp_end": "20231103 15:51:10.9",
+        "audio_outside_label": "N"
+    }
+}

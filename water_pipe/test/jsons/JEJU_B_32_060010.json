@@ -1,0 +1,140 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEJU_B_3",
+        "local_gov_name": "제주시",
+        "use_purpose": "송수관",
+        "installation_year": 2001,
+        "pipe_length": 3.8,
+        "pipe_type": "주철관",
+        "pipe_diameter": 600
+    },
+    "data_info": {
+        "data_id": "JEJU_B_32_060010",
+        "detection_time": "20231110 17:10:26.1",
+        "detection_position": 32,
+        "detection_order": 60010,
+        "multi_modal_label": [
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEJU_B_32_060010_II",
+        "image_file_name": "JEJU_B_32_060010_II.png",
+        "image_original_file_name": "JEJU_B_32.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 596,
+                        "y": 1076
+                    },
+                    {
+                        "x": 606,
+                        "y": 1041
+                    },
+                    {
+                        "x": 623,
+                        "y": 993
+                    },
+                    {
+                        "x": 640,
+                        "y": 942
+                    },
+                    {
+                        "x": 676,
+                        "y": 864
+                    },
+                    {
+                        "x": 720,
+                        "y": 784
+                    },
+                    {
+                        "x": 774,
+                        "y": 703
+                    },
+                    {
+                        "x": 819,
+                        "y": 658
+                    },
+                    {
+                        "x": 882,
+                        "y": 611
+                    },
+                    {
+                        "x": 963,
+                        "y": 575
+                    },
+                    {
+                        "x": 1044,
+                        "y": 560
+                    },
+                    {
+                        "x": 1164,
+                        "y": 550
+                    },
+                    {
+                        "x": 1332,
+                        "y": 546
+                    },
+                    {
+                        "x": 1497,
+                        "y": 568
+                    },
+                    {
+                        "x": 1678,
+                        "y": 614
+                    },
+                    {
+                        "x": 1835,
+                        "y": 666
+                    },
+                    {
+                        "x": 1920,
+                        "y": 717
+                    },
+                    {
+                        "x": 1920,
+                        "y": 0
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 0,
+                        "y": 1080
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEJU_B_32_060010_AI",
+        "audio_inside_file_name": "JEJU_B_32_060010_AI.wav",
+        "audio_inside_original_file_name": "JEJU_B_32_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231110 17:10:23.6",
+        "audio_inside_timestamp_end": "20231110 17:10:28.6",
+        "audio_inside_label": "A"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEJU_B_32_060010_AO",
+        "audio_outside_file_name": "JEJU_B_32_060010_AO.wav",
+        "audio_outside_original_file_name": "JEJU_B_32_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231110 17:10:23.6",
+        "audio_outside_timestamp_end": "20231110 17:10:28.6",
+        "audio_outside_label": "N"
+    }
+}

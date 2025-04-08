@@ -1,0 +1,59 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_1",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 1998,
+        "pipe_length": 4.3,
+        "pipe_type": "주철관",
+        "pipe_diameter": 700
+    },
+    "data_info": {
+        "data_id": "JINDO_C_15_065100",
+        "detection_time": "20231115 00:10:51.0",
+        "detection_position": 15,
+        "detection_order": 65100,
+        "multi_modal_label": [
+            "A1"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_15_065100_II",
+        "image_file_name": "JINDO_C_15_065100_II.png",
+        "image_original_file_name": "JINDO_C_15.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [],
+                "image_label": "A1"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_15_065100_AI",
+        "audio_inside_file_name": "JINDO_C_15_065100_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_15_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231115 00:10:48.5",
+        "audio_inside_timestamp_end": "20231115 00:10:53.5",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_15_065100_AO",
+        "audio_outside_file_name": "JINDO_C_15_065100_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_15_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231115 00:10:48.5",
+        "audio_outside_timestamp_end": "20231115 00:10:53.5",
+        "audio_outside_label": "N"
+    }
+}

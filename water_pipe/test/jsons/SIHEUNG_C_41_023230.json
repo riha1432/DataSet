@@ -1,0 +1,140 @@
+{
+    "pipe_info": {
+        "pipe_id": "SIHEUNG_C_4",
+        "local_gov_name": "시흥시",
+        "use_purpose": "배수관",
+        "installation_year": 2001,
+        "pipe_length": 6,
+        "pipe_type": "강관",
+        "pipe_diameter": 900
+    },
+    "data_info": {
+        "data_id": "SIHEUNG_C_41_023230",
+        "detection_time": "20231102 23:39:09.3",
+        "detection_position": 41,
+        "detection_order": 23230,
+        "multi_modal_label": [
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "SIHEUNG_C_41_023230_II",
+        "image_file_name": "SIHEUNG_C_41_023230_II.png",
+        "image_original_file_name": "SIHEUNG_C_41.mp4",
+        "image_height": 713,
+        "image_width": 1216,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 110,
+                        "y": 3
+                    },
+                    {
+                        "x": 180,
+                        "y": 58
+                    },
+                    {
+                        "x": 254,
+                        "y": 100
+                    },
+                    {
+                        "x": 380,
+                        "y": 151
+                    },
+                    {
+                        "x": 498,
+                        "y": 195
+                    },
+                    {
+                        "x": 646,
+                        "y": 213
+                    },
+                    {
+                        "x": 818,
+                        "y": 184
+                    },
+                    {
+                        "x": 966,
+                        "y": 138
+                    },
+                    {
+                        "x": 1195,
+                        "y": 21
+                    },
+                    {
+                        "x": 1216,
+                        "y": 2
+                    },
+                    {
+                        "x": 1174,
+                        "y": 0
+                    },
+                    {
+                        "x": 1076,
+                        "y": 58
+                    },
+                    {
+                        "x": 966,
+                        "y": 116
+                    },
+                    {
+                        "x": 829,
+                        "y": 151
+                    },
+                    {
+                        "x": 678,
+                        "y": 177
+                    },
+                    {
+                        "x": 543,
+                        "y": 165
+                    },
+                    {
+                        "x": 344,
+                        "y": 113
+                    },
+                    {
+                        "x": 225,
+                        "y": 50
+                    },
+                    {
+                        "x": 151,
+                        "y": 0
+                    },
+                    {
+                        "x": 103,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "SIHEUNG_C_41_023230_AI",
+        "audio_inside_file_name": "SIHEUNG_C_41_023230_AI.wav",
+        "audio_inside_original_file_name": "SIHEUNG_C_41_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231102 23:39:06.8",
+        "audio_inside_timestamp_end": "20231102 23:39:11.8",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "SIHEUNG_C_41_023230_AO",
+        "audio_outside_file_name": "SIHEUNG_C_41_023230_AO.wav",
+        "audio_outside_original_file_name": "SIHEUNG_C_41_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231102 23:39:06.8",
+        "audio_outside_timestamp_end": "20231102 23:39:11.8",
+        "audio_outside_label": "N"
+    }
+}

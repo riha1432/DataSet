@@ -1,0 +1,130 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_3",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 2009,
+        "pipe_length": 7.6,
+        "pipe_type": "강관",
+        "pipe_diameter": 500
+    },
+    "data_info": {
+        "data_id": "JINDO_C_38_063340",
+        "detection_time": "20231120 00:10:33.4",
+        "detection_position": 38,
+        "detection_order": 63340,
+        "multi_modal_label": [
+            "A5",
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_38_063340_II",
+        "image_file_name": "JINDO_C_38_063340_II.png",
+        "image_original_file_name": "JINDO_C_38.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 1401,
+                        "y": 142
+                    },
+                    {
+                        "x": 1304,
+                        "y": 142
+                    },
+                    {
+                        "x": 1192,
+                        "y": 264
+                    },
+                    {
+                        "x": 1179,
+                        "y": 413
+                    },
+                    {
+                        "x": 1212,
+                        "y": 616
+                    },
+                    {
+                        "x": 1315,
+                        "y": 497
+                    },
+                    {
+                        "x": 1369,
+                        "y": 374
+                    },
+                    {
+                        "x": 1415,
+                        "y": 181
+                    }
+                ],
+                "image_label": "A5"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1572,
+                        "y": 11
+                    },
+                    {
+                        "x": 1603,
+                        "y": 194
+                    },
+                    {
+                        "x": 1625,
+                        "y": 454
+                    },
+                    {
+                        "x": 1586,
+                        "y": 698
+                    },
+                    {
+                        "x": 1517,
+                        "y": 893
+                    },
+                    {
+                        "x": 1413,
+                        "y": 1077
+                    },
+                    {
+                        "x": 1913,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1912,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_38_063340_AI",
+        "audio_inside_file_name": "JINDO_C_38_063340_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_38_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231120 00:10:30.9",
+        "audio_inside_timestamp_end": "20231120 00:10:35.9",
+        "audio_inside_label": "A"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_38_063340_AO",
+        "audio_outside_file_name": "JINDO_C_38_063340_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_38_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231120 00:10:30.9",
+        "audio_outside_timestamp_end": "20231120 00:10:35.9",
+        "audio_outside_label": "N"
+    }
+}

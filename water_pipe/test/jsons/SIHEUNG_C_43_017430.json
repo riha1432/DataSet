@@ -1,0 +1,172 @@
+{
+    "pipe_info": {
+        "pipe_id": "SIHEUNG_C_4",
+        "local_gov_name": "시흥시",
+        "use_purpose": "배수관",
+        "installation_year": 2001,
+        "pipe_length": 6,
+        "pipe_type": "강관",
+        "pipe_diameter": 900
+    },
+    "data_info": {
+        "data_id": "SIHEUNG_C_43_017430",
+        "detection_time": "20231102 23:38:11.3",
+        "detection_position": 43,
+        "detection_order": 17430,
+        "multi_modal_label": [
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "SIHEUNG_C_43_017430_II",
+        "image_file_name": "SIHEUNG_C_43_017430_II.png",
+        "image_original_file_name": "SIHEUNG_C_43.mp4",
+        "image_height": 713,
+        "image_width": 1216,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 499,
+                        "y": 16
+                    },
+                    {
+                        "x": 552,
+                        "y": 111
+                    },
+                    {
+                        "x": 631,
+                        "y": 181
+                    },
+                    {
+                        "x": 728,
+                        "y": 223
+                    },
+                    {
+                        "x": 825,
+                        "y": 230
+                    },
+                    {
+                        "x": 863,
+                        "y": 225
+                    },
+                    {
+                        "x": 915,
+                        "y": 213
+                    },
+                    {
+                        "x": 995,
+                        "y": 184
+                    },
+                    {
+                        "x": 1057,
+                        "y": 143
+                    },
+                    {
+                        "x": 1115,
+                        "y": 67
+                    },
+                    {
+                        "x": 1134,
+                        "y": 1
+                    },
+                    {
+                        "x": 1127,
+                        "y": 0
+                    },
+                    {
+                        "x": 1120,
+                        "y": 5
+                    },
+                    {
+                        "x": 1103,
+                        "y": 46
+                    },
+                    {
+                        "x": 1078,
+                        "y": 90
+                    },
+                    {
+                        "x": 1037,
+                        "y": 132
+                    },
+                    {
+                        "x": 984,
+                        "y": 168
+                    },
+                    {
+                        "x": 929,
+                        "y": 190
+                    },
+                    {
+                        "x": 898,
+                        "y": 201
+                    },
+                    {
+                        "x": 851,
+                        "y": 211
+                    },
+                    {
+                        "x": 820,
+                        "y": 211
+                    },
+                    {
+                        "x": 754,
+                        "y": 206
+                    },
+                    {
+                        "x": 684,
+                        "y": 181
+                    },
+                    {
+                        "x": 638,
+                        "y": 158
+                    },
+                    {
+                        "x": 593,
+                        "y": 117
+                    },
+                    {
+                        "x": 546,
+                        "y": 60
+                    },
+                    {
+                        "x": 515,
+                        "y": 0
+                    },
+                    {
+                        "x": 493,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "SIHEUNG_C_43_017430_AI",
+        "audio_inside_file_name": "SIHEUNG_C_43_017430_AI.wav",
+        "audio_inside_original_file_name": "SIHEUNG_C_43_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231102 23:38:08.8",
+        "audio_inside_timestamp_end": "20231102 23:38:13.8",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "SIHEUNG_C_43_017430_AO",
+        "audio_outside_file_name": "SIHEUNG_C_43_017430_AO.wav",
+        "audio_outside_original_file_name": "SIHEUNG_C_43_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231102 23:38:08.8",
+        "audio_outside_timestamp_end": "20231102 23:38:13.8",
+        "audio_outside_label": "N"
+    }
+}

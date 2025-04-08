@@ -1,0 +1,242 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEJU_B_1",
+        "local_gov_name": "제주시",
+        "use_purpose": "송수관",
+        "installation_year": 2001,
+        "pipe_length": 3.8,
+        "pipe_type": "주철관",
+        "pipe_diameter": 600
+    },
+    "data_info": {
+        "data_id": "JEJU_B_12_151840",
+        "detection_time": "20231007 16:16:02.4",
+        "detection_position": 12,
+        "detection_order": 151840,
+        "multi_modal_label": [
+            "A4",
+            "A3"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEJU_B_12_151840_II",
+        "image_file_name": "JEJU_B_12_151840_II.png",
+        "image_original_file_name": "JEJU_B_12.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 256,
+                        "y": 636
+                    },
+                    {
+                        "x": 437,
+                        "y": 635
+                    },
+                    {
+                        "x": 491,
+                        "y": 631
+                    },
+                    {
+                        "x": 503,
+                        "y": 646
+                    },
+                    {
+                        "x": 555,
+                        "y": 725
+                    },
+                    {
+                        "x": 616,
+                        "y": 785
+                    },
+                    {
+                        "x": 665,
+                        "y": 810
+                    },
+                    {
+                        "x": 730,
+                        "y": 823
+                    },
+                    {
+                        "x": 798,
+                        "y": 827
+                    },
+                    {
+                        "x": 870,
+                        "y": 823
+                    },
+                    {
+                        "x": 917,
+                        "y": 812
+                    },
+                    {
+                        "x": 956,
+                        "y": 795
+                    },
+                    {
+                        "x": 998,
+                        "y": 774
+                    },
+                    {
+                        "x": 1028,
+                        "y": 759
+                    },
+                    {
+                        "x": 1047,
+                        "y": 744
+                    },
+                    {
+                        "x": 1073,
+                        "y": 725
+                    },
+                    {
+                        "x": 1092,
+                        "y": 706
+                    },
+                    {
+                        "x": 1107,
+                        "y": 691
+                    },
+                    {
+                        "x": 1128,
+                        "y": 667
+                    },
+                    {
+                        "x": 1158,
+                        "y": 618
+                    },
+                    {
+                        "x": 1167,
+                        "y": 593
+                    },
+                    {
+                        "x": 1203,
+                        "y": 548
+                    },
+                    {
+                        "x": 1920,
+                        "y": 454
+                    },
+                    {
+                        "x": 1920,
+                        "y": 1080
+                    },
+                    {
+                        "x": 0,
+                        "y": 1080
+                    },
+                    {
+                        "x": 0,
+                        "y": 629
+                    }
+                ],
+                "image_label": "A4"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1583,
+                        "y": 516
+                    },
+                    {
+                        "x": 1566,
+                        "y": 544
+                    },
+                    {
+                        "x": 1566,
+                        "y": 559
+                    },
+                    {
+                        "x": 1572,
+                        "y": 578
+                    },
+                    {
+                        "x": 1578,
+                        "y": 589
+                    },
+                    {
+                        "x": 1578,
+                        "y": 601
+                    },
+                    {
+                        "x": 1578,
+                        "y": 608
+                    },
+                    {
+                        "x": 1596,
+                        "y": 571
+                    },
+                    {
+                        "x": 1600,
+                        "y": 552
+                    },
+                    {
+                        "x": 1602,
+                        "y": 537
+                    },
+                    {
+                        "x": 1610,
+                        "y": 522
+                    },
+                    {
+                        "x": 1617,
+                        "y": 510
+                    },
+                    {
+                        "x": 1611,
+                        "y": 501
+                    },
+                    {
+                        "x": 1600,
+                        "y": 501
+                    },
+                    {
+                        "x": 1593,
+                        "y": 499
+                    },
+                    {
+                        "x": 1585,
+                        "y": 499
+                    },
+                    {
+                        "x": 1578,
+                        "y": 507
+                    },
+                    {
+                        "x": 1574,
+                        "y": 514
+                    }
+                ],
+                "image_label": "A3"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEJU_B_12_151840_AI",
+        "audio_inside_file_name": "JEJU_B_12_151840_AI.wav",
+        "audio_inside_original_file_name": "JEJU_B_12_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231007 16:15:59.9",
+        "audio_inside_timestamp_end": "20231007 16:16:04.9",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEJU_B_12_151840_AO",
+        "audio_outside_file_name": "JEJU_B_12_151840_AO.wav",
+        "audio_outside_original_file_name": "JEJU_B_12_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231007 16:15:59.9",
+        "audio_outside_timestamp_end": "20231007 16:16:04.9",
+        "audio_outside_label": "N"
+    }
+}

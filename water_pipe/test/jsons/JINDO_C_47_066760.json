@@ -1,0 +1,200 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_4",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 2009,
+        "pipe_length": 3.5,
+        "pipe_type": "강관",
+        "pipe_diameter": 300
+    },
+    "data_info": {
+        "data_id": "JINDO_C_47_066760",
+        "detection_time": "20231121 00:11:07.6",
+        "detection_position": 47,
+        "detection_order": 66760,
+        "multi_modal_label": [
+            "A4",
+            "A4",
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_47_066760_II",
+        "image_file_name": "JINDO_C_47_066760_II.png",
+        "image_original_file_name": "JINDO_C_47.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 1268,
+                        "y": 1056
+                    },
+                    {
+                        "x": 1248,
+                        "y": 1001
+                    },
+                    {
+                        "x": 1211,
+                        "y": 972
+                    },
+                    {
+                        "x": 1203,
+                        "y": 948
+                    },
+                    {
+                        "x": 1177,
+                        "y": 970
+                    },
+                    {
+                        "x": 1157,
+                        "y": 988
+                    },
+                    {
+                        "x": 1129,
+                        "y": 1024
+                    },
+                    {
+                        "x": 1111,
+                        "y": 1052
+                    },
+                    {
+                        "x": 1100,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1201,
+                        "y": 1080
+                    }
+                ],
+                "image_label": "A4"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1067,
+                        "y": 946
+                    },
+                    {
+                        "x": 1016,
+                        "y": 946
+                    },
+                    {
+                        "x": 996,
+                        "y": 955
+                    },
+                    {
+                        "x": 996,
+                        "y": 979
+                    },
+                    {
+                        "x": 1005,
+                        "y": 1004
+                    },
+                    {
+                        "x": 994,
+                        "y": 1048
+                    },
+                    {
+                        "x": 988,
+                        "y": 1073
+                    },
+                    {
+                        "x": 1002,
+                        "y": 1079
+                    },
+                    {
+                        "x": 1028,
+                        "y": 1068
+                    },
+                    {
+                        "x": 1036,
+                        "y": 1039
+                    },
+                    {
+                        "x": 1037,
+                        "y": 1027
+                    },
+                    {
+                        "x": 1056,
+                        "y": 1010
+                    },
+                    {
+                        "x": 1063,
+                        "y": 979
+                    },
+                    {
+                        "x": 1068,
+                        "y": 964
+                    }
+                ],
+                "image_label": "A4"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1537,
+                        "y": 1065
+                    },
+                    {
+                        "x": 1534,
+                        "y": 1028
+                    },
+                    {
+                        "x": 1519,
+                        "y": 1015
+                    },
+                    {
+                        "x": 1496,
+                        "y": 1021
+                    },
+                    {
+                        "x": 1464,
+                        "y": 1049
+                    },
+                    {
+                        "x": 1451,
+                        "y": 1062
+                    },
+                    {
+                        "x": 1445,
+                        "y": 1073
+                    },
+                    {
+                        "x": 1479,
+                        "y": 1080
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_47_066760_AI",
+        "audio_inside_file_name": "JINDO_C_47_066760_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_47_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231121 00:11:05.1",
+        "audio_inside_timestamp_end": "20231121 00:11:10.1",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_47_066760_AO",
+        "audio_outside_file_name": "JINDO_C_47_066760_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_47_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231121 00:11:05.1",
+        "audio_outside_timestamp_end": "20231121 00:11:10.1",
+        "audio_outside_label": "N"
+    }
+}

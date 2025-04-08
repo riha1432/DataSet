@@ -1,0 +1,214 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_4",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 2009,
+        "pipe_length": 3.5,
+        "pipe_type": "강관",
+        "pipe_diameter": 300
+    },
+    "data_info": {
+        "data_id": "JINDO_C_45_100140",
+        "detection_time": "20231121 00:16:41.4",
+        "detection_position": 45,
+        "detection_order": 100140,
+        "multi_modal_label": [
+            "A3",
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_45_100140_II",
+        "image_file_name": "JINDO_C_45_100140_II.png",
+        "image_original_file_name": "JINDO_C_45.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 15,
+                        "y": 484
+                    },
+                    {
+                        "x": 169,
+                        "y": 434
+                    },
+                    {
+                        "x": 383,
+                        "y": 370
+                    },
+                    {
+                        "x": 445,
+                        "y": 347
+                    },
+                    {
+                        "x": 490,
+                        "y": 333
+                    },
+                    {
+                        "x": 437,
+                        "y": 160
+                    },
+                    {
+                        "x": 355,
+                        "y": 155
+                    },
+                    {
+                        "x": 10,
+                        "y": 101
+                    },
+                    {
+                        "x": 0,
+                        "y": 113
+                    },
+                    {
+                        "x": 0,
+                        "y": 480
+                    }
+                ],
+                "image_label": "A3"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 504,
+                        "y": 29
+                    },
+                    {
+                        "x": 484,
+                        "y": 54
+                    },
+                    {
+                        "x": 470,
+                        "y": 148
+                    },
+                    {
+                        "x": 480,
+                        "y": 257
+                    },
+                    {
+                        "x": 522,
+                        "y": 374
+                    },
+                    {
+                        "x": 614,
+                        "y": 465
+                    },
+                    {
+                        "x": 668,
+                        "y": 492
+                    },
+                    {
+                        "x": 788,
+                        "y": 503
+                    },
+                    {
+                        "x": 869,
+                        "y": 490
+                    },
+                    {
+                        "x": 960,
+                        "y": 467
+                    },
+                    {
+                        "x": 1019,
+                        "y": 422
+                    },
+                    {
+                        "x": 1069,
+                        "y": 364
+                    },
+                    {
+                        "x": 1106,
+                        "y": 292
+                    },
+                    {
+                        "x": 1129,
+                        "y": 115
+                    },
+                    {
+                        "x": 1101,
+                        "y": 123
+                    },
+                    {
+                        "x": 1051,
+                        "y": 311
+                    },
+                    {
+                        "x": 1031,
+                        "y": 363
+                    },
+                    {
+                        "x": 991,
+                        "y": 408
+                    },
+                    {
+                        "x": 801,
+                        "y": 465
+                    },
+                    {
+                        "x": 732,
+                        "y": 469
+                    },
+                    {
+                        "x": 663,
+                        "y": 465
+                    },
+                    {
+                        "x": 565,
+                        "y": 364
+                    },
+                    {
+                        "x": 528,
+                        "y": 299
+                    },
+                    {
+                        "x": 478,
+                        "y": 201
+                    },
+                    {
+                        "x": 487,
+                        "y": 149
+                    },
+                    {
+                        "x": 503,
+                        "y": 98
+                    },
+                    {
+                        "x": 520,
+                        "y": 45
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_45_100140_AI",
+        "audio_inside_file_name": "JINDO_C_45_100140_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_45_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231121 00:16:38.9",
+        "audio_inside_timestamp_end": "20231121 00:16:43.9",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_45_100140_AO",
+        "audio_outside_file_name": "JINDO_C_45_100140_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_45_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231121 00:16:38.9",
+        "audio_outside_timestamp_end": "20231121 00:16:43.9",
+        "audio_outside_label": "N"
+    }
+}

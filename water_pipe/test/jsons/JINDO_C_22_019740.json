@@ -1,0 +1,136 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_2",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 1998,
+        "pipe_length": 4.3,
+        "pipe_type": "주철관",
+        "pipe_diameter": 700
+    },
+    "data_info": {
+        "data_id": "JINDO_C_22_019740",
+        "detection_time": "20231116 00:03:17.4",
+        "detection_position": 22,
+        "detection_order": 19740,
+        "multi_modal_label": [
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_22_019740_II",
+        "image_file_name": "JINDO_C_22_019740_II.png",
+        "image_original_file_name": "JINDO_C_22.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 1909,
+                        "y": 828
+                    },
+                    {
+                        "x": 1782,
+                        "y": 741
+                    },
+                    {
+                        "x": 1681,
+                        "y": 677
+                    },
+                    {
+                        "x": 1544,
+                        "y": 635
+                    },
+                    {
+                        "x": 1419,
+                        "y": 580
+                    },
+                    {
+                        "x": 1260,
+                        "y": 541
+                    },
+                    {
+                        "x": 1120,
+                        "y": 519
+                    },
+                    {
+                        "x": 936,
+                        "y": 499
+                    },
+                    {
+                        "x": 804,
+                        "y": 508
+                    },
+                    {
+                        "x": 648,
+                        "y": 525
+                    },
+                    {
+                        "x": 456,
+                        "y": 547
+                    },
+                    {
+                        "x": 356,
+                        "y": 557
+                    },
+                    {
+                        "x": 227,
+                        "y": 600
+                    },
+                    {
+                        "x": 158,
+                        "y": 630
+                    },
+                    {
+                        "x": 77,
+                        "y": 666
+                    },
+                    {
+                        "x": 0,
+                        "y": 708
+                    },
+                    {
+                        "x": 4,
+                        "y": 0
+                    },
+                    {
+                        "x": 1915,
+                        "y": 2
+                    },
+                    {
+                        "x": 1916,
+                        "y": 825
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_22_019740_AI",
+        "audio_inside_file_name": "JINDO_C_22_019740_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_22_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231116 00:03:14.9",
+        "audio_inside_timestamp_end": "20231116 00:03:19.9",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_22_019740_AO",
+        "audio_outside_file_name": "JINDO_C_22_019740_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_22_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231116 00:03:14.9",
+        "audio_outside_timestamp_end": "20231116 00:03:19.9",
+        "audio_outside_label": "N"
+    }
+}

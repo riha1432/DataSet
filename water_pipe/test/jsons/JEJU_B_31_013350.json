@@ -1,0 +1,144 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEJU_B_3",
+        "local_gov_name": "제주시",
+        "use_purpose": "송수관",
+        "installation_year": 2001,
+        "pipe_length": 3.8,
+        "pipe_type": "주철관",
+        "pipe_diameter": 600
+    },
+    "data_info": {
+        "data_id": "JEJU_B_31_013350",
+        "detection_time": "20231110 16:44:23.5",
+        "detection_position": 31,
+        "detection_order": 13350,
+        "multi_modal_label": [
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEJU_B_31_013350_II",
+        "image_file_name": "JEJU_B_31_013350_II.png",
+        "image_original_file_name": "JEJU_B_31.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 0,
+                        "y": 780
+                    },
+                    {
+                        "x": 74,
+                        "y": 792
+                    },
+                    {
+                        "x": 169,
+                        "y": 839
+                    },
+                    {
+                        "x": 308,
+                        "y": 845
+                    },
+                    {
+                        "x": 419,
+                        "y": 829
+                    },
+                    {
+                        "x": 525,
+                        "y": 797
+                    },
+                    {
+                        "x": 670,
+                        "y": 787
+                    },
+                    {
+                        "x": 829,
+                        "y": 773
+                    },
+                    {
+                        "x": 942,
+                        "y": 767
+                    },
+                    {
+                        "x": 1078,
+                        "y": 765
+                    },
+                    {
+                        "x": 1304,
+                        "y": 731
+                    },
+                    {
+                        "x": 1380,
+                        "y": 697
+                    },
+                    {
+                        "x": 1474,
+                        "y": 670
+                    },
+                    {
+                        "x": 1545,
+                        "y": 652
+                    },
+                    {
+                        "x": 1616,
+                        "y": 660
+                    },
+                    {
+                        "x": 1748,
+                        "y": 664
+                    },
+                    {
+                        "x": 1804,
+                        "y": 647
+                    },
+                    {
+                        "x": 1867,
+                        "y": 628
+                    },
+                    {
+                        "x": 1920,
+                        "y": 572
+                    },
+                    {
+                        "x": 1920,
+                        "y": 0
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEJU_B_31_013350_AI",
+        "audio_inside_file_name": "JEJU_B_31_013350_AI.wav",
+        "audio_inside_original_file_name": "JEJU_B_31_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231110 16:44:21.0",
+        "audio_inside_timestamp_end": "20231110 16:44:26.0",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEJU_B_31_013350_AO",
+        "audio_outside_file_name": "JEJU_B_31_013350_AO.wav",
+        "audio_outside_original_file_name": "JEJU_B_31_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231110 16:44:21.0",
+        "audio_outside_timestamp_end": "20231110 16:44:26.0",
+        "audio_outside_label": "N"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEONJU_A_1",
+        "local_gov_name": "전주시",
+        "use_purpose": "도수관",
+        "installation_year": 2012,
+        "pipe_length": 3.86,
+        "pipe_type": "주철관",
+        "pipe_diameter": 800
+    },
+    "data_info": {
+        "data_id": "JEONJU_A_11_066200",
+        "detection_time": "20231103 15:53:02.0",
+        "detection_position": 11,
+        "detection_order": 66200,
+        "multi_modal_label": [
+            "A4"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEONJU_A_11_066200_II",
+        "image_file_name": "JEONJU_A_11_066200_II.png",
+        "image_original_file_name": "JEONJU_A_11.mp4",
+        "image_height": 713,
+        "image_width": 1225,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 42,
+                        "y": 453
+                    },
+                    {
+                        "x": 78,
+                        "y": 467
+                    },
+                    {
+                        "x": 113,
+                        "y": 486
+                    },
+                    {
+                        "x": 159,
+                        "y": 471
+                    },
+                    {
+                        "x": 231,
+                        "y": 428
+                    },
+                    {
+                        "x": 377,
+                        "y": 379
+                    },
+                    {
+                        "x": 538,
+                        "y": 342
+                    },
+                    {
+                        "x": 601,
+                        "y": 322
+                    },
+                    {
+                        "x": 736,
+                        "y": 353
+                    },
+                    {
+                        "x": 835,
+                        "y": 391
+                    },
+                    {
+                        "x": 928,
+                        "y": 427
+                    },
+                    {
+                        "x": 1005,
+                        "y": 477
+                    },
+                    {
+                        "x": 1122,
+                        "y": 522
+                    },
+                    {
+                        "x": 1180,
+                        "y": 497
+                    },
+                    {
+                        "x": 1221,
+                        "y": 463
+                    },
+                    {
+                        "x": 1220,
+                        "y": 0
+                    },
+                    {
+                        "x": 0,
+                        "y": 1
+                    },
+                    {
+                        "x": 0,
+                        "y": 470
+                    }
+                ],
+                "image_label": "A4"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEONJU_A_11_066200_AI",
+        "audio_inside_file_name": "JEONJU_A_11_066200_AI.wav",
+        "audio_inside_original_file_name": "JEONJU_A_11_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231103 15:52:59.5",
+        "audio_inside_timestamp_end": "20231103 15:53:04.5",
+        "audio_inside_label": "A"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEONJU_A_11_066200_AO",
+        "audio_outside_file_name": "JEONJU_A_11_066200_AO.wav",
+        "audio_outside_original_file_name": "JEONJU_A_11_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231103 15:52:59.5",
+        "audio_outside_timestamp_end": "20231103 15:53:04.5",
+        "audio_outside_label": "N"
+    }
+}

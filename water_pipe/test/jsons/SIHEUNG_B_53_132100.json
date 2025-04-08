@@ -1,0 +1,122 @@
+{
+    "pipe_info": {
+        "pipe_id": "SIHEUNG_B_5",
+        "local_gov_name": "시흥시",
+        "use_purpose": "송수관",
+        "installation_year": 2001,
+        "pipe_length": 5,
+        "pipe_type": "강관",
+        "pipe_diameter": 700
+    },
+    "data_info": {
+        "data_id": "SIHEUNG_B_53_132100",
+        "detection_time": "20231106 00:22:01.0",
+        "detection_position": 53,
+        "detection_order": 132100,
+        "multi_modal_label": [
+            "A5",
+            "A5"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "SIHEUNG_B_53_132100_II",
+        "image_file_name": "SIHEUNG_B_53_132100_II.png",
+        "image_original_file_name": "SIHEUNG_B_53.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 31,
+                        "y": 674
+                    },
+                    {
+                        "x": 352,
+                        "y": 451
+                    },
+                    {
+                        "x": 532,
+                        "y": 469
+                    },
+                    {
+                        "x": 455,
+                        "y": 597
+                    },
+                    {
+                        "x": 57,
+                        "y": 912
+                    },
+                    {
+                        "x": 1,
+                        "y": 868
+                    }
+                ],
+                "image_label": "A5"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 158,
+                        "y": 29
+                    },
+                    {
+                        "x": 215,
+                        "y": 409
+                    },
+                    {
+                        "x": 768,
+                        "y": 428
+                    },
+                    {
+                        "x": 1419,
+                        "y": 501
+                    },
+                    {
+                        "x": 1801,
+                        "y": 629
+                    },
+                    {
+                        "x": 1920,
+                        "y": 693
+                    },
+                    {
+                        "x": 1913,
+                        "y": 0
+                    },
+                    {
+                        "x": 138,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A5"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "SIHEUNG_B_53_132100_AI",
+        "audio_inside_file_name": "SIHEUNG_B_53_132100_AI.wav",
+        "audio_inside_original_file_name": "SIHEUNG_B_53_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231106 00:21:58.5",
+        "audio_inside_timestamp_end": "20231106 00:22:03.5",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "SIHEUNG_B_53_132100_AO",
+        "audio_outside_file_name": "SIHEUNG_B_53_132100_AO.wav",
+        "audio_outside_original_file_name": "SIHEUNG_B_53_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231106 00:21:58.5",
+        "audio_outside_timestamp_end": "20231106 00:22:03.5",
+        "audio_outside_label": "N"
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "pipe_info": {
+        "pipe_id": "JINDO_C_4",
+        "local_gov_name": "진도군",
+        "use_purpose": "배수관",
+        "installation_year": 2009,
+        "pipe_length": 3.5,
+        "pipe_type": "강관",
+        "pipe_diameter": 300
+    },
+    "data_info": {
+        "data_id": "JINDO_C_45_053830",
+        "detection_time": "20231121 00:08:58.3",
+        "detection_position": 45,
+        "detection_order": 53830,
+        "multi_modal_label": [
+            "A4",
+            "A5",
+            "A5",
+            "A5"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JINDO_C_45_053830_II",
+        "image_file_name": "JINDO_C_45_053830_II.png",
+        "image_original_file_name": "JINDO_C_45.mp4",
+        "image_height": 1080,
+        "image_width": 1920,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 1263,
+                        "y": 605
+                    },
+                    {
+                        "x": 1251,
+                        "y": 568
+                    },
+                    {
+                        "x": 1217,
+                        "y": 551
+                    },
+                    {
+                        "x": 1196,
+                        "y": 550
+                    },
+                    {
+                        "x": 1192,
+                        "y": 596
+                    },
+                    {
+                        "x": 1172,
+                        "y": 664
+                    },
+                    {
+                        "x": 1161,
+                        "y": 718
+                    },
+                    {
+                        "x": 1169,
+                        "y": 732
+                    },
+                    {
+                        "x": 1192,
+                        "y": 706
+                    },
+                    {
+                        "x": 1217,
+                        "y": 680
+                    },
+                    {
+                        "x": 1237,
+                        "y": 666
+                    },
+                    {
+                        "x": 1248,
+                        "y": 644
+                    }
+                ],
+                "image_label": "A4"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1810,
+                        "y": 363
+                    },
+                    {
+                        "x": 1773,
+                        "y": 335
+                    },
+                    {
+                        "x": 1694,
+                        "y": 275
+                    },
+                    {
+                        "x": 1661,
+                        "y": 290
+                    },
+                    {
+                        "x": 1600,
+                        "y": 331
+                    },
+                    {
+                        "x": 1547,
+                        "y": 346
+                    },
+                    {
+                        "x": 1530,
+                        "y": 379
+                    },
+                    {
+                        "x": 1530,
+                        "y": 485
+                    },
+                    {
+                        "x": 1505,
+                        "y": 577
+                    },
+                    {
+                        "x": 1469,
+                        "y": 650
+                    },
+                    {
+                        "x": 1413,
+                        "y": 762
+                    },
+                    {
+                        "x": 1358,
+                        "y": 878
+                    },
+                    {
+                        "x": 1288,
+                        "y": 974
+                    },
+                    {
+                        "x": 1281,
+                        "y": 1030
+                    },
+                    {
+                        "x": 1379,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1600,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1796,
+                        "y": 1076
+                    },
+                    {
+                        "x": 1920,
+                        "y": 1079
+                    },
+                    {
+                        "x": 1920,
+                        "y": 934
+                    },
+                    {
+                        "x": 1920,
+                        "y": 674
+                    },
+                    {
+                        "x": 1920,
+                        "y": 469
+                    },
+                    {
+                        "x": 1920,
+                        "y": 390
+                    },
+                    {
+                        "x": 1860,
+                        "y": 368
+                    },
+                    {
+                        "x": 1820,
+                        "y": 363
+                    }
+                ],
+                "image_label": "A5"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 199,
+                        "y": 3
+                    },
+                    {
+                        "x": 165,
+                        "y": 52
+                    },
+                    {
+                        "x": 107,
+                        "y": 88
+                    },
+                    {
+                        "x": 84,
+                        "y": 150
+                    },
+                    {
+                        "x": 87,
+                        "y": 203
+                    },
+                    {
+                        "x": 98,
+                        "y": 217
+                    },
+                    {
+                        "x": 102,
+                        "y": 282
+                    },
+                    {
+                        "x": 98,
+                        "y": 340
+                    },
+                    {
+                        "x": 116,
+                        "y": 362
+                    },
+                    {
+                        "x": 143,
+                        "y": 317
+                    },
+                    {
+                        "x": 169,
+                        "y": 334
+                    },
+                    {
+                        "x": 185,
+                        "y": 362
+                    },
+                    {
+                        "x": 240,
+                        "y": 367
+                    },
+                    {
+                        "x": 264,
+                        "y": 359
+                    },
+                    {
+                        "x": 303,
+                        "y": 402
+                    },
+                    {
+                        "x": 349,
+                        "y": 432
+                    },
+                    {
+                        "x": 400,
+                        "y": 418
+                    },
+                    {
+                        "x": 469,
+                        "y": 373
+                    },
+                    {
+                        "x": 515,
+                        "y": 295
+                    },
+                    {
+                        "x": 537,
+                        "y": 237
+                    },
+                    {
+                        "x": 548,
+                        "y": 158
+                    },
+                    {
+                        "x": 497,
+                        "y": 94
+                    },
+                    {
+                        "x": 490,
+                        "y": 27
+                    },
+                    {
+                        "x": 439,
+                        "y": 0
+                    },
+                    {
+                        "x": 300,
+                        "y": 0
+                    },
+                    {
+                        "x": 197,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A5"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 1574,
+                        "y": 7
+                    },
+                    {
+                        "x": 1592,
+                        "y": 93
+                    },
+                    {
+                        "x": 1603,
+                        "y": 168
+                    },
+                    {
+                        "x": 1584,
+                        "y": 174
+                    },
+                    {
+                        "x": 1549,
+                        "y": 88
+                    },
+                    {
+                        "x": 1533,
+                        "y": 21
+                    },
+                    {
+                        "x": 1531,
+                        "y": 0
+                    }
+                ],
+                "image_label": "A5"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JINDO_C_45_053830_AI",
+        "audio_inside_file_name": "JINDO_C_45_053830_AI.wav",
+        "audio_inside_original_file_name": "JINDO_C_45_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231121 00:08:55.8",
+        "audio_inside_timestamp_end": "20231121 00:09:00.8",
+        "audio_inside_label": "N"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JINDO_C_45_053830_AO",
+        "audio_outside_file_name": "JINDO_C_45_053830_AO.wav",
+        "audio_outside_original_file_name": "JINDO_C_45_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231121 00:08:55.8",
+        "audio_outside_timestamp_end": "20231121 00:09:00.8",
+        "audio_outside_label": "N"
+    }
+}

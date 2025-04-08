@@ -1,0 +1,294 @@
+{
+    "pipe_info": {
+        "pipe_id": "JEONJU_A_1",
+        "local_gov_name": "전주시",
+        "use_purpose": "도수관",
+        "installation_year": 2012,
+        "pipe_length": 3.86,
+        "pipe_type": "주철관",
+        "pipe_diameter": 800
+    },
+    "data_info": {
+        "data_id": "JEONJU_A_11_053860",
+        "detection_time": "20231103 15:50:58.6",
+        "detection_position": 11,
+        "detection_order": 53860,
+        "multi_modal_label": [
+            "A4",
+            "A2"
+        ]
+    },
+    "image_inside_info": {
+        "image_id": "JEONJU_A_11_053860_II",
+        "image_file_name": "JEONJU_A_11_053860_II.png",
+        "image_original_file_name": "JEONJU_A_11.mp4",
+        "image_height": 713,
+        "image_width": 1225,
+        "annotations": [
+            {
+                "polygon_info": [
+                    {
+                        "x": 1225,
+                        "y": 459
+                    },
+                    {
+                        "x": 1113,
+                        "y": 444
+                    },
+                    {
+                        "x": 960,
+                        "y": 412
+                    },
+                    {
+                        "x": 730,
+                        "y": 404
+                    },
+                    {
+                        "x": 517,
+                        "y": 400
+                    },
+                    {
+                        "x": 429,
+                        "y": 452
+                    },
+                    {
+                        "x": 278,
+                        "y": 488
+                    },
+                    {
+                        "x": 214,
+                        "y": 460
+                    },
+                    {
+                        "x": 142,
+                        "y": 428
+                    },
+                    {
+                        "x": 79,
+                        "y": 453
+                    },
+                    {
+                        "x": 0,
+                        "y": 401
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "x": 1225,
+                        "y": 0
+                    },
+                    {
+                        "x": 1225,
+                        "y": 446
+                    }
+                ],
+                "image_label": "A4"
+            },
+            {
+                "polygon_info": [
+                    {
+                        "x": 28,
+                        "y": 281
+                    },
+                    {
+                        "x": 85,
+                        "y": 232
+                    },
+                    {
+                        "x": 125,
+                        "y": 207
+                    },
+                    {
+                        "x": 176,
+                        "y": 192
+                    },
+                    {
+                        "x": 220,
+                        "y": 171
+                    },
+                    {
+                        "x": 263,
+                        "y": 158
+                    },
+                    {
+                        "x": 305,
+                        "y": 139
+                    },
+                    {
+                        "x": 377,
+                        "y": 123
+                    },
+                    {
+                        "x": 421,
+                        "y": 113
+                    },
+                    {
+                        "x": 468,
+                        "y": 109
+                    },
+                    {
+                        "x": 532,
+                        "y": 95
+                    },
+                    {
+                        "x": 592,
+                        "y": 93
+                    },
+                    {
+                        "x": 659,
+                        "y": 91
+                    },
+                    {
+                        "x": 697,
+                        "y": 89
+                    },
+                    {
+                        "x": 796,
+                        "y": 94
+                    },
+                    {
+                        "x": 842,
+                        "y": 106
+                    },
+                    {
+                        "x": 884,
+                        "y": 113
+                    },
+                    {
+                        "x": 934,
+                        "y": 114
+                    },
+                    {
+                        "x": 950,
+                        "y": 127
+                    },
+                    {
+                        "x": 941,
+                        "y": 133
+                    },
+                    {
+                        "x": 908,
+                        "y": 128
+                    },
+                    {
+                        "x": 875,
+                        "y": 126
+                    },
+                    {
+                        "x": 815,
+                        "y": 115
+                    },
+                    {
+                        "x": 783,
+                        "y": 113
+                    },
+                    {
+                        "x": 743,
+                        "y": 111
+                    },
+                    {
+                        "x": 690,
+                        "y": 108
+                    },
+                    {
+                        "x": 660,
+                        "y": 108
+                    },
+                    {
+                        "x": 623,
+                        "y": 107
+                    },
+                    {
+                        "x": 572,
+                        "y": 107
+                    },
+                    {
+                        "x": 532,
+                        "y": 114
+                    },
+                    {
+                        "x": 485,
+                        "y": 122
+                    },
+                    {
+                        "x": 419,
+                        "y": 127
+                    },
+                    {
+                        "x": 359,
+                        "y": 143
+                    },
+                    {
+                        "x": 304,
+                        "y": 155
+                    },
+                    {
+                        "x": 259,
+                        "y": 175
+                    },
+                    {
+                        "x": 221,
+                        "y": 186
+                    },
+                    {
+                        "x": 197,
+                        "y": 199
+                    },
+                    {
+                        "x": 167,
+                        "y": 213
+                    },
+                    {
+                        "x": 141,
+                        "y": 224
+                    },
+                    {
+                        "x": 116,
+                        "y": 236
+                    },
+                    {
+                        "x": 94,
+                        "y": 249
+                    },
+                    {
+                        "x": 64,
+                        "y": 268
+                    },
+                    {
+                        "x": 35,
+                        "y": 295
+                    }
+                ],
+                "image_label": "A2"
+            }
+        ]
+    },
+    "audio_inside_info": {
+        "audio_inside_id": "JEONJU_A_11_053860_AI",
+        "audio_inside_file_name": "JEONJU_A_11_053860_AI.wav",
+        "audio_inside_original_file_name": "JEONJU_A_11_AI.wav",
+        "audio_inside_num_channels": 1,
+        "audio_inside_sample_width": 2,
+        "audio_inside_frame_rate": 22050,
+        "audio_inside_num_frames": 110250,
+        "audio_inside_length": 5.0,
+        "audio_inside_timestamp_start": "20231103 15:50:56.1",
+        "audio_inside_timestamp_end": "20231103 15:51:01.1",
+        "audio_inside_label": "A"
+    },
+    "audio_outside_info": {
+        "audio_outside_id": "JEONJU_A_11_053860_AO",
+        "audio_outside_file_name": "JEONJU_A_11_053860_AO.wav",
+        "audio_outside_original_file_name": "JEONJU_A_11_AO.wav",
+        "audio_outside_num_channels": 1,
+        "audio_outside_sample_width": 2,
+        "audio_outside_frame_rate": 8000,
+        "audio_outside_num_frames": 40000,
+        "audio_outside_length": 5.0,
+        "audio_outside_timestamp_start": "20231103 15:50:56.1",
+        "audio_outside_timestamp_end": "20231103 15:51:01.1",
+        "audio_outside_label": "N"
+    }
+}
