@@ -1,0 +1,8 @@
+names:
+- car
+- truck
+- bus
+nc: 3
+test: /content/share/DI_RONE/test/images
+train: /content/share/DI_RONE/train/images/
+val: /content/share/DI_RONE/valid/images
